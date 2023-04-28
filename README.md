@@ -1,22 +1,19 @@
 
-Star this repo
-15513
-Fork on GitHub
-4256
-
-
-
-preview
 <h1 align="center">Hi 👋, I'm AKHILESH SHARMA</h1>
-<h3 align="center">passionate frontend developer|Cloud Engineer from India</h3>
+<h5>AWS reStart Graduate </h5>
+<h3 align="center">passionate frontend developer | Cloud Engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhileshsharma08" alt="akhileshsharma08" /></a> </p>
 
 - 💬 Ask me about **REACT ,JAVASCRIPT,AWS ,ANSIBLE,LINUX**
 
+🌍  I'm based in Agra, India
+🖥️  See my portfolio at Portfolio @https://akhilesh.in/
+🧠  Currently learning TypeScript
+🤝  I'm open to collaborating on interesting projects as a developer
+
 - 📫 How to reach me **ITS.AKHILESH23@GMAIL.COM**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akhilesh-sharma-838580246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhilesh-sharma-838580246/" height="30" width="40" /></a>
 <a href="https://instagram.com/er.akki07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er.akki07" height="30" width="40" /></a>
