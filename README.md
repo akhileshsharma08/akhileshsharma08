@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Akhilesh Sharma <br>Front-End Developer & Cloud Engineer</h2>
+<h1 align="center">Hi 👋! My name is Akhilesh Sharma <br>Front-End Developer & Cloud Engineer</h1>
 
 ###
 
-<h4 align="center">AWS re/Start Graduate<br>🌍  I'm based in Agra, India<br>🖥️  See my portfolio at www.https://akhilesh.in/<br>🧠  Currently learning TypeScript<br>🤝  I'm open to collaborating on interesting projects as a developer and Cloud Engineer</h4>
+<h3 align="center">AWS re/Start Graduate<br>🌍  I'm based in Agra, India<br>🖥️  See my portfolio at www.https://akhilesh.in/<br>🧠  Currently learning TypeScript<br>🤝  I'm open to collaborating on interesting projects as a developer and Cloud Engineer</h3>
 
 ###
 
