@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">AWS re/Start Graduate<br>🌍  I'm based in Agra, India<br>🖥️  See my portfolio at www.https://akhileshsharma.in/<br>🧠  Currently learning TypeScript<br>🤝  I'm open to collaborating on interesting projects as a developer and Cloud Engineer</h3>
+<h3 align="center">AWS re/Start Graduate<br>🌍  I'm based in Agra, India<br>🖥️  See my portfolio at https://akhileshsharma.in/ <br>🧠  Currently learning TypeScript<br>🤝  I'm open to collaborating on interesting projects as a developer and Cloud Engineer</h3>
 
 ###
 
